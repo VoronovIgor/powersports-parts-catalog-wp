@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+msgid "ZCatalog"
+msgstr "ZCatalog"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "API Key"
+msgstr "API-ключ"
+
+msgid "Part URL (use @article)"
+msgstr "URL для детали (используйте @article)"
+
+msgid "Enter the URL where the part article should redirect to. Example: /search?query=@article"
+msgstr "Введите URL, куда будет вести артикул детали. Например: /search?query=@article"
+
+msgid "Vehicle Groups"
+msgstr "Группы техники"
+
+msgid "No data available."
+msgstr "Нет данных."
+
+msgid "Brands"
+msgstr "Бренды"
+
+msgid "Production Years"
+msgstr "Годы выпуска"
+
+msgid "Models"
+msgstr "Модели"
+
+msgid "Assemblies / Schemes"
+msgstr "Узлы / схемы"
+
+msgid "Parts"
+msgstr "Детали"
+
+msgid "No parts available."
+msgstr "Нет деталей."
+
+msgid "Name"
+msgstr "Название"
+
+msgid "Article"
+msgstr "Артикул"
+
+msgid "Qty"
+msgstr "Кол-во"
+
+msgid "Order"
+msgstr "Заказать"
+
+msgid "Diagram"
+msgstr "Схема"
+
+msgid "No image available."
+msgstr "Нет изображения."
+
+msgid "Information"
+msgstr "Информация"
+
+msgid "To obtain an API key, please visit "
+msgstr "Для получения API ключа посетите "
+
+msgid "or contact Telegram "
+msgstr "или свяжитесь в Telegram "
