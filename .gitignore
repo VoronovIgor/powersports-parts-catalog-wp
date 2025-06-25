@@ -1,0 +1,44 @@
+# IDE and Editor folders
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Composer vendor directory
+/vendor/
+
+# Node modules (если используете npm/yarn)
+node_modules/
+
+# Logs and debug files
+*.log
+debug.log
+
+# WordPress core files (если в репозитории только плагин)
+/wp-content/plugins/your-plugin-name/
+
+# Cache files
+*.cache
+
+# Backup files
+*.bak
+*.old
+*.backup
+
+# Ignore all files except plugin files if repository includes WP core
+# (обычно не надо, если в репо только плагин)
+
+/*.zip
+/*.tar.gz
+
+# Ignore zip files from packaging releases
+*.zip
+*.tar.gz
+
+# Ignore environment config files if any
+.env
+
+# Ignore system files
+ehthumbs.db
