@@ -1,71 +1,63 @@
-# ZCatalog – Powersports Parts Catalog for WordPress
+## ZCatalog – Powersports Spare‑Parts E‑Catalog for WordPress
 
-![License](https://img.shields.io/badge/license-GPL--2.0-blue)
+**English 🇬🇧 | [Русский 🇷🇺](#русский)**
 
-**ZCatalog** is a lightweight, multi-level spare parts e-catalog plugin for WordPress, built with pure PHP (no JavaScript frameworks).
+ZCatalog is a multi-level spare parts catalog plugin for WordPress.
+It displays hierarchical data (Groups → Brands → Years → Models → Bodies → Parts) with diagrams for powersports vehicles:
 
----
-
-## 🌍 English Description
-
-ZCatalog is a powerful WordPress plugin designed to create a multi-level e-catalog of spare parts for powersports vehicles.
+> ATV, Motorcycles, Personal Watercraft, Scooters, Side x Side, Snowmobiles, Boats, Lawn Tractors, and more.
 
 ### ✨ Features
 
-* Hierarchical navigation: **Groups → Brands → Years → Models → Bodies → Parts**
-* Diagrams with parts
-* Fully translatable, supports **English** and **Russian**
-* No JavaScript frameworks required
-* Lightweight and fast
+* Simple integration via `[zcatalog]` shortcode
+* Clean HTML/CSS layout – no JavaScript frameworks
+* API-based structure loading with caching
+* Editable part link template (`/search?@article`)
+* Admin settings page
+* Multilingual-ready (English / Russian)
 
-### 🏋️ Suitable for
+### 🔧 Installation
 
-* ATV, UTV / Side-by-Side, Motorcycles
-* Personal Watercraft, Boats, WaveRunners
-* Snowmobiles, Scooters, Utility Vehicles
-* GEM® Electric, Slingshot, Lawn Tractors
-* Outdoor Power Equipment, Race Karts, and more
+1. Upload the plugin to your `/wp-content/plugins/` directory.
+2. Activate **ZCatalog** through the WordPress admin.
+3. Add `[zcatalog]` shortcode to any page.
+4. Enter your API key in Settings → ZCatalog.
 
-### 🔑 API Access
-
-To obtain an API key, please visit:
+🔑 To get an API key, contact:
 
 * Website: [https://zapscript.net](https://zapscript.net)
 * Telegram: [@zplandev](https://t.me/zplandev)
 
-### ⚡ Installation
-
-1. Upload the plugin folder to `/wp-content/plugins/`
-2. Activate the plugin through the WordPress admin panel
-3. Go to **Settings > ZCatalog** and enter your API key
-4. Use the shortcode `[zcatalog]` to display the catalog on any page
-
 ---
 
-## 🇷🇺 Русское описание
+## Русский 🇷🇺
 
-ZCatalog — это плагин WordPress для создания интерактивного каталога запчастей без JS-фреймворков.
+**[Английский 🇬🇧](#zcatalog--powersports-spareparts-e-catalog-for-wordpress)**
 
-### ✨ Возможности
+**ZCatalog** — это плагин для WordPress, реализующий многоуровневый каталог запчастей:
+**Группы → Бренды → Годы → Модели → Узлы → Детали**, с отображением схем и изображений.
 
-* Иерархия: **Группы → Бренды → Годы → Модели → Узлы → Детали**
-* Схемы запчастей
-* Полная локализация: поддержка английского и русского языков
-* Плагин на чистом PHP
-* Быстрая работа и лёгкий вес
+Поддерживаемые категории техники:
 
-### 🔑 Получение API-ключа
+> Квадроциклы, мотоциклы, гидроциклы, скутеры, снегоходы, лодки, тракторы, и др.
 
-Чтобы получить API-ключ от базы, обратитесь:
+### 🔧 Возможности
+
+* Вставка на любую страницу с помощью шорткода `[zcatalog]`
+* Без JS-фреймворков — только HTML/CSS
+* Работа через API с кэшированием
+* Настраиваемый URL для артикулов (`/search?@article`)
+* Панель настроек в админке
+* Поддержка мультиязычности (English / Русский)
+
+### ⚙️ Установка
+
+1. Скопируйте плагин в папку `/wp-content/plugins/`
+2. Активируйте плагин через админпанель WordPress
+3. Вставьте шорткод `[zcatalog]` на страницу
+4. Укажите API‑ключ в разделе “Настройки → ZCatalog”
+
+🔑 Для получения API‑ключа:
 
 * Сайт: [https://zapscript.net](https://zapscript.net)
 * Telegram: [@zplandev](https://t.me/zplandev)
-
-### ⚡ Установка
-
-1. Скачайте и распакуйте плагин в `/wp-content/plugins/`
-2. Активируйте через админпанель WordPress
-3. Перейдите в **Настройки > ZCatalog**, введите API-ключ
-4. Используйте шорткод `[zcatalog]` для вставки каталога на страницу
-
----
