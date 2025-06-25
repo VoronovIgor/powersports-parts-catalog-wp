@@ -1,8 +1,8 @@
-## ZCatalog – Powersports Spare‑Parts E‑Catalog for WordPress
+## ZCatalog – Powersports Spare‑Parts E‑Catalog for WordPress <a name="english"></a>
 
-**English 🇬🇧 | [Русский 🇷🇺](#русский)**
+**English 🇬🇧 | [Русский 🇷🇺](#russian)**
 
-ZCatalog is a multi-level spare parts catalog plugin for WordPress.
+ZCatalog is a multi-level spare parts catalog plugin for WordPress.  
 It displays hierarchical data (Groups → Brands → Years → Models → Bodies → Parts) with diagrams for powersports vehicles:
 
 > ATV, Motorcycles, Personal Watercraft, Scooters, Side x Side, Snowmobiles, Boats, Lawn Tractors, and more.
@@ -30,11 +30,11 @@ It displays hierarchical data (Groups → Brands → Years → Models → Bodies
 
 ---
 
-## Русский 🇷🇺
+## Русский 🇷🇺 <a name="russian"></a>
 
-**[Английский 🇬🇧](#zcatalog--powersports-spareparts-e-catalog-for-wordpress)**
+**[Английский 🇬🇧](#english)**
 
-**ZCatalog** — это плагин для WordPress, реализующий многоуровневый каталог запчастей:
+**ZCatalog** — это плагин для WordPress, реализующий многоуровневый каталог запчастей:  
 **Группы → Бренды → Годы → Модели → Узлы → Детали**, с отображением схем и изображений.
 
 Поддерживаемые категории техники:
